@@ -12,3 +12,4 @@ buildNumber.properties
 .idea/
 OnlineExam.iml
 src/main/resources/static/
+node_modules/

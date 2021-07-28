@@ -14,5 +14,9 @@
     "commitizen": {
       "path": "git-cz"
     }
+  },
+  "dependencies": {
+    "ghooks": "^2.0.4",
+    "validate-commit-msg": "^2.14.0"
   }
 }
